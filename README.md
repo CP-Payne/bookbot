@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is not my first git project!
+Counting words and characters in a file.
